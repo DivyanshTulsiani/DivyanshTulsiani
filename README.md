@@ -1,6 +1,6 @@
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/157114498?v=4&size=64" alt="Divyansh's Avatar" width="150" style="border-radius:50%; box-shadow:0 0 10px #888;" />
+  <img src="https://static.wikia.nocookie.net/characters/images/6/6a/Artwork-GTAVC-TommyVercetti.jpg/revision/latest?cb=20191109181329" alt="Divyansh's Avatar" width="150" style="border-radius:50%; box-shadow:0 0 10px #888;" />
 </p>
 
 <h1 align="center"><b>Hi, I'm Divyansh Tulsiani 👋</b></h1>
